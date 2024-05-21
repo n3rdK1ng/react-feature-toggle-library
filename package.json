@@ -1,6 +1,6 @@
 {
   "name": "react-feature-toggle-library",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "main": "dist/react-feature-toggle-library.umd.js",
   "module": "dist/react-feature-toggle-library.es.js",
@@ -20,6 +20,10 @@
   "peerDependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n3rdK1ng/react-feature-toggle-library.git"
   },
   "devDependencies": {
     "@types/node": "^20.12.12",
